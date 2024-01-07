@@ -1,0 +1,5 @@
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Open_closed principle\Open_closed principle\obj\Debug\net6.0\Open_closed principle.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Open_closed principle\Open_closed principle\obj\Debug\net6.0\Open_closed principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Open_closed principle\Open_closed principle\obj\Debug\net6.0\Open_closed principle.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Open_closed principle\Open_closed principle\obj\Debug\net6.0\Open_closed principle.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Open_closed principle\Open_closed principle\obj\Debug\net6.0\Open_closed principle.csproj.CoreCompileInputs.cache

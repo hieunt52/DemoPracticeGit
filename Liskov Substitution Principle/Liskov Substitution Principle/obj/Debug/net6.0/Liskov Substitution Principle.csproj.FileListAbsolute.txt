@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Liskov Substitution Principle\Liskov Substitution Principle\obj\Debug\net6.0\Liskov Substitution Principle.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Liskov Substitution Principle\Liskov Substitution Principle\obj\Debug\net6.0\Liskov Substitution Principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Liskov Substitution Principle\Liskov Substitution Principle\obj\Debug\net6.0\Liskov Substitution Principle.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Liskov Substitution Principle\Liskov Substitution Principle\obj\Debug\net6.0\Liskov Substitution Principle.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Liskov Substitution Principle\Liskov Substitution Principle\obj\Debug\net6.0\Liskov Substitution Principle.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Liskov Substitution Principle\Liskov Substitution Principle\bin\Debug\net6.0\Liskov Substitution Principle.exe
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Liskov Substitution Principle\Liskov Substitution Principle\bin\Debug\net6.0\Liskov Substitution Principle.deps.json
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Liskov Substitution Principle\Liskov Substitution Principle\bin\Debug\net6.0\Liskov Substitution Principle.runtimeconfig.json
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Liskov Substitution Principle\Liskov Substitution Principle\bin\Debug\net6.0\Liskov Substitution Principle.dll
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Liskov Substitution Principle\Liskov Substitution Principle\bin\Debug\net6.0\Liskov Substitution Principle.pdb
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Liskov Substitution Principle\Liskov Substitution Principle\obj\Debug\net6.0\Liskov Substitution Principle.dll
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Liskov Substitution Principle\Liskov Substitution Principle\obj\Debug\net6.0\refint\Liskov Substitution Principle.dll
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Liskov Substitution Principle\Liskov Substitution Principle\obj\Debug\net6.0\Liskov Substitution Principle.pdb
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Liskov Substitution Principle\Liskov Substitution Principle\obj\Debug\net6.0\Liskov Substitution Principle.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Liskov Substitution Principle\Liskov Substitution Principle\obj\Debug\net6.0\ref\Liskov Substitution Principle.dll

@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Dependency inversion principle\Dependency inversion principle\bin\Debug\net6.0\Dependency inversion principle.exe
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Dependency inversion principle\Dependency inversion principle\bin\Debug\net6.0\Dependency inversion principle.deps.json
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Dependency inversion principle\Dependency inversion principle\bin\Debug\net6.0\Dependency inversion principle.runtimeconfig.json
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Dependency inversion principle\Dependency inversion principle\bin\Debug\net6.0\Dependency inversion principle.dll
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Dependency inversion principle\Dependency inversion principle\bin\Debug\net6.0\Dependency inversion principle.pdb
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Dependency inversion principle\Dependency inversion principle\obj\Debug\net6.0\Dependency inversion principle.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Dependency inversion principle\Dependency inversion principle\obj\Debug\net6.0\Dependency inversion principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Dependency inversion principle\Dependency inversion principle\obj\Debug\net6.0\Dependency inversion principle.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Dependency inversion principle\Dependency inversion principle\obj\Debug\net6.0\Dependency inversion principle.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Dependency inversion principle\Dependency inversion principle\obj\Debug\net6.0\Dependency inversion principle.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Dependency inversion principle\Dependency inversion principle\obj\Debug\net6.0\Dependency inversion principle.dll
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Dependency inversion principle\Dependency inversion principle\obj\Debug\net6.0\refint\Dependency inversion principle.dll
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Dependency inversion principle\Dependency inversion principle\obj\Debug\net6.0\Dependency inversion principle.pdb
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Dependency inversion principle\Dependency inversion principle\obj\Debug\net6.0\Dependency inversion principle.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Dependency inversion principle\Dependency inversion principle\obj\Debug\net6.0\ref\Dependency inversion principle.dll

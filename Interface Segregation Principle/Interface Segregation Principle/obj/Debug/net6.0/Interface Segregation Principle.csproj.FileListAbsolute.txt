@@ -1,0 +1,5 @@
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Interface Segregation Principle\Interface Segregation Principle\obj\Debug\net6.0\Interface Segregation Principle.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Interface Segregation Principle\Interface Segregation Principle\obj\Debug\net6.0\Interface Segregation Principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Interface Segregation Principle\Interface Segregation Principle\obj\Debug\net6.0\Interface Segregation Principle.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Interface Segregation Principle\Interface Segregation Principle\obj\Debug\net6.0\Interface Segregation Principle.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Các nguyên tắc solid_dry\Interface Segregation Principle\Interface Segregation Principle\obj\Debug\net6.0\Interface Segregation Principle.csproj.CoreCompileInputs.cache

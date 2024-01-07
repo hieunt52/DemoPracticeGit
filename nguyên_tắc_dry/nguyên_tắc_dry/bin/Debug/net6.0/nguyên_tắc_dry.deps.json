@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "nguyên_tắc_dry/1.0.0": {
+        "runtime": {
+          "nguyên_tắc_dry.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "nguyên_tắc_dry/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
